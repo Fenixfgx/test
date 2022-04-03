@@ -151,17 +151,14 @@ body{
     background: #fff1a8;
 }
 
-#searchForm .input-append{
-    width: 100%;
+
 }
 
 #searchForm{
     text-align: center;    
 }
 
-#searchForm input{
-    width: 100%;
-}
+
 
 #container-paginator{
     position: relative;
